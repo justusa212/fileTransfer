@@ -1,0 +1,6 @@
+Change environment variables below for desired functionality
+
+SYNC_OUT_DIR=  (Files put in this directory will be sent out and automatically deletes itself)
+SYNC_IN_DIR=  (Files received can be found in this directory)
+PORT= (Change which port to listen to)
+REMOTE_URL= (http://localhost:PORT)
